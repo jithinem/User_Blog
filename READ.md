@@ -1,3 +1,6 @@
+Connection String: "mongodb://localhost:27017/testDB";
+
+
 To create a user-POST
 http://localhost:3000/api/user
 {
